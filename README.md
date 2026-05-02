@@ -28,7 +28,7 @@ Profissional de Tecnologia da Informação com mais de 10 anos de experiência e
 
 ## 🧠 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystianmote\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrystianmote&layout=compact&theme=tokyonight)
 
 ---
 
